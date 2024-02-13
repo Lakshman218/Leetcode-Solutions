@@ -10,4 +10,4 @@ var arrayPairSum = function(nums) {
 };
 
 const result = arrayPairSum(nums)
-console.log(arrayPairSum(nums));
+console.log(result);
