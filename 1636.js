@@ -12,7 +12,7 @@ var frequencySort = function (nums) {
     if(freqA === freqB) { // If frequencies are the same, sort in decreasing order of values
       return b-a
     }
-    return freqA - freqB // Sort in increasing order of frequencies
+    return freqA - freqB // Sort in increasing order of frequencies..
   })
 
   return nums
