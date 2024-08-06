@@ -15,3 +15,6 @@ var unequalTriplets = function(nums) {
   }
   return count
 };
+
+nums = [4,4,2,4,3]
+console.log(unequalTriplets(nums));
