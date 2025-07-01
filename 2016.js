@@ -9,7 +9,6 @@ var maximumDifference = function(nums) {
             minSoFar = nums[i];
         }
     }
-
     return maxDiff;
 };
 
